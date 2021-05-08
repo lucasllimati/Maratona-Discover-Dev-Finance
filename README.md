@@ -12,11 +12,6 @@
 
 <p align="center">
     <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/birobirobiro/maratona-discover-01?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/birobirobiro/maratona-discover-01?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars"> 
-
 </p>
 
 <br>
