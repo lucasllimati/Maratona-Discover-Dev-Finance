@@ -8,8 +8,12 @@
   <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-  
 </p>
+
+ ## 📇 Contato
+ [![Linkedin](https://img.shields.io/badge/Linkedin-lucasllimati-blue.svg)](https://www.linkedin.com/in/lucasllimati/)
+ [![Instagram](https://img.shields.io/badge/Instagram-olukaslima_-ff69b4.svg)](https://www.instagram.com/olukaslima_)
+ [![Linktree](https://img.shields.io/badge/Linktree-lucasllimati-brightgreen.svg)](https://linktr.ee/lucasllimati)
 
 <p align="center">
     <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
